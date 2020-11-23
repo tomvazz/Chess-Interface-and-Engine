@@ -1233,11 +1233,3 @@ public class Gameplay {
 	
 }
 
-/*
- * STILL NEED TO DO -
- * 
- * stalemate for 2 player and 1 player white
- * make ai avoid making a stalemate
- * 3rd gen ai
- * checkmate check after pawn promo
- */
