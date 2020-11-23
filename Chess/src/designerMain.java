@@ -50,16 +50,6 @@ public class designerMain {
 		
 		frame.getContentPane().setLayout(null);
 		
-		JLabel rand = new JLabel("g");
-		rand.setForeground(new Color(221, 160, 221));
-		rand.setFont(new Font("Webdings", Font.PLAIN, 75));
-		rand.setBounds(0, 0, 75, 75);
-		frame.getContentPane().add(rand);
-		JLabel rand1 = new JLabel("g");
-		rand1.setForeground(new Color(255, 182, 193));
-		rand1.setFont(new Font("Webdings", Font.PLAIN, 75));
-		rand1.setBounds(0, 80, 75, 75);
-		frame.getContentPane().add(rand1);
 		
 		
 	}
